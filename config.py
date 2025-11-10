@@ -2,27 +2,27 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "8235729400:AAHL0CaiT9xin7TNmILhFf2ZTmu-VOalvkY"
+    BOT_TOKEN = "8579065326:AAH6m4ievy30DEe0VPbBIRoAxfABEstbUy4"
     # Telegram API ki ID
-    API_ID = 27030443
-    API_HASH = "da842bsdfijfhbeuf39edf0ac74b6e00c43c91"
+    API_ID = 22484497
+    API_HASH = "c38cb053916c47a97590c244663cbaef"
     ADMIN_ID = [7991495621]
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://akash1:cluster8343@cluster0.eupasvd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = "mongodb+srv://uploaderbot:uploaderbot@cluster0.mpesxpw.mongodb.net/?retryWrites=true&w=majority"
     # Database ka naam
-    DB_NAME = "MY_BOT_DB"
+    DB_NAME = "uploaderbot"
     # Text log channel ki ID
-    TXT_LOG = -10012234502065
+    TXT_LOG = -1003350895871
     # Authentication log channel ki ID
-    AUTH_LOG = -1002429764735
+    AUTH_LOG = -1003350895871
     # Hit log channel ki ID
-    HIT_LOG = -1002262405901
+    HIT_LOG = -1003350895871
     # DRM dump channel ki ID
-    DRM_DUMP = -1002349629748
+    DRM_DUMP = -1003350895871
     # Main channel ki ID
-    CHANNEL = -1002361507681
+    CHANNEL = -1003350895871
     # Channel ka link
-    CH_URL = "https://t.me/+qEEho66dZJ1kODRi"
+    CH_URL = "https://t.me/+JiQaNvQ8nkw4YWFl"
     # Bot ke owner ka Telegram link
     OWNER = "https://t.me/username"
     # Thumbnail image ka URL
